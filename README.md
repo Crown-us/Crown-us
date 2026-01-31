@@ -24,11 +24,19 @@ Seorang mahasiswa **D3 Manajemen Informatika** di PSDKU Polinema Kediri yang sed
 
 ---
 
-### 📊 GitHub Stats
+---
+
+### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Crown-us&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kevin's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crown-us&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Crown-us&show_icons=true&theme=transparent&hide_border=true&title_color=7F52FF&icon_color=7F52FF&text_color=fff" alt="Kevin's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crown-us&layout=compact&theme=transparent&hide_border=true&title_color=7F52FF&text_color=fff" alt="Top Languages" width="40%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Crown-us&theme=transparent&hide_border=true&stroke=7F52FF&ring=7F52FF&fire=7F52FF&currStreakLabel=7F52FF" alt="GitHub Streak" width="90%" />
+</p>
+
+---
 
 ---
 
