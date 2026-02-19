@@ -27,10 +27,10 @@
 
 ### 🌌 Let's Connect
 <p align="left">
-  <a href="https://instagram.com/KepskuyyPOV" target="_blank">
+  <a href="https://www.instagram.com/kepsssz/" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:kevindwiwijaya@gmail.com">
+  <a href="mailto:wijaya.kevinn@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
