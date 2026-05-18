@@ -13,8 +13,9 @@
 
 <br/>
 
-[![Instagram](https://img.shields.io/badge/—%20@kepsssz-%23CBA6F7?style=flat-square&logo=instagram&logoColor=1e1e2e&labelColor=CBA6F7)](https://www.instagram.com/kepsssz/)
-[![Gmail](https://img.shields.io/badge/—%20wijaya.kevinn-%23f38ba8?style=flat-square&logo=gmail&logoColor=1e1e2e&labelColor=f38ba8)](mailto:wijaya.kevinn@gmail.com)
+[![Portfolio](https://img.shields.io/badge/kvndwi.com-a6e3a1?style=flat-square&logo=firefoxbrowser&logoColor=1e1e2e)](https://kvndwi.com)
+[![Instagram](https://img.shields.io/badge/@kepsssz-CBA6F7?style=flat-square&logo=instagram&logoColor=1e1e2e)](https://www.instagram.com/kepsssz/)
+[![Gmail](https://img.shields.io/badge/gmail-f38ba8?style=flat-square&logo=gmail&logoColor=1e1e2e)](mailto:wijaya.kevinn@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Crown-us&color=cba6f7&style=flat-square&label=profile+views)](https://github.com/Crown-us)
 
 </div>
@@ -31,7 +32,8 @@ role        : Fullstack Web Developer × Deep Learning Explorer
 education   : D3 Manajemen Informatika — PSDKU Polinema Kediri
 focus       : Real-time emotion visualization via deep learning (audio-based)
 building    : Marketplace Apotek Seger — Laravel + React
-side_quest  : -106kg weight loss journey [ still going... ]
+web         : https://kvndwi.com
+side_quest  : optimizing hardware as hard as i optimize code
 ```
 
 ---
