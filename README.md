@@ -27,13 +27,13 @@ $ whoami
 ```
 
 ```yaml
-name        : Kevin Dwi Wijaya
-role        : Fullstack Web Developer × Deep Learning Explorer
-education   : D3 Manajemen Informatika — PSDKU Polinema Kediri
-focus       : Real-time emotion visualization via deep learning (audio-based)
-building    : Marketplace Apotek Seger — Laravel + React
-web         : https://kvndwi.com
-side_quest  : optimizing hardware as hard as i optimize code
+name       : Kevin Dwi Wijaya
+role       : Fullstack Web Developer × Deep Learning Explorer
+education  : D3 Manajemen Informatika — PSDKU Polinema Kediri
+focus      : Real-time emotion visualization via deep learning (audio-based)
+currently  : Marketplace Apotek Seger — Laravel + React
+web        : https://kvndwi.com
+side_quest : optimizing hardware as hard as i optimize code
 ```
 
 ---
@@ -44,12 +44,12 @@ $ cat tech-stack.json
 
 ```json
 {
-  "languages"  : ["JavaScript", "Python", "Kotlin"],
-  "frontend"   : ["React", "Three.js", "Tailwind CSS"],
-  "backend"    : ["Laravel", "Next.js", "Node.js"],
-  "ml_ai"      : ["TensorFlow", "Deep Learning", "Audio Signal Processing"],
-  "database"   : ["MySQL"],
-  "tools"      : ["Git", "Linux", "Catppuccin Mocha (obviously)"]
+  "languages" : ["JavaScript", "Python", "PHP", "Kotlin"],
+  "frontend"  : ["React", "Next.js", "Three.js", "Tailwind CSS"],
+  "backend"   : ["Laravel", "Node.js"],
+  "ml_ai"     : ["TensorFlow", "Deep Learning", "Audio Signal Processing"],
+  "database"  : ["MySQL"],
+  "tools"     : ["Git", "Linux", "Vim", "Catppuccin Mocha (obviously)"]
 }
 ```
 
@@ -61,8 +61,8 @@ $ ls -la projects/
 
 | Project | Stack | Status |
 |:--------|:------|:------:|
-| 🟣 **Apotek Seger Marketplace** | Laravel, React, MySQL | `active` |
-| 🔵 **Emotion Visualizer** | Python, TensorFlow, Deep Learning | `in progress` |
+| 🟣 **Apotek Seger Marketplace** | Laravel · React · MySQL | `active` |
+| 🔵 **Emotion Visualizer** | Python · TensorFlow · Audio DSP | `in progress` |
 
 ---
 
@@ -72,7 +72,7 @@ $ ls -la projects/
 $ git log --oneline --graph --all
 ```
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Crown-us&theme=catppuccin-mocha&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D&card_width=480)](https://github.com/Crown-us)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Crown-us&theme=catppuccin-mocha&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D&card_width=480)](https://github.com/Crown-us)
 
 <br/>
 
@@ -86,13 +86,13 @@ $ git log --oneline --graph --all
 ![PHP](https://img.shields.io/badge/PHP-89b4fa?style=flat-square&logo=php&logoColor=1e1e2e)
 ![React](https://img.shields.io/badge/React-89dceb?style=flat-square&logo=react&logoColor=1e1e2e)
 ![Laravel](https://img.shields.io/badge/Laravel-f38ba8?style=flat-square&logo=laravel&logoColor=1e1e2e)
+![Next.js](https://img.shields.io/badge/Next.js-cdd6f4?style=flat-square&logo=nextdotjs&logoColor=1e1e2e)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-fab387?style=flat-square&logo=tensorflow&logoColor=1e1e2e)
 
 </div>
 
 ---
 
 <div align="center">
-<sub>
-crafted with <code>vim</code> · powered by <code>caffeine</code> · themed with <code>catppuccin mocha</code>
-</sub>
+<sub>crafted with <code>vim</code> · powered by <code>caffeine</code> · themed with <code>catppuccin mocha</code></sub>
 </div>
