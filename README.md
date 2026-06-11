@@ -1,54 +1,59 @@
-# Hi, I'm Kevin 👋
+<div align="center">
+
+# Kevin Dwi Wijaya
+
+### Fullstack Web Developer • Deep Learning Explorer • System Builder
 
 ```text
-Building systems.
-Training models.
-Breaking things.
-Fixing them.
-Repeating.
+Building products.
+Solving problems.
+Learning endlessly.
 ```
 
-Fullstack Web Developer from Indonesia focused on building scalable web applications, learning deep learning, and creating software that solves real-world problems.
+<br>
+
+<a href="https://kvndwi.com">Portfolio</a> • <a href="https://github.com/Crown-us">GitHub</a> • <a href="https://instagram.com/kepsssz">Instagram</a> • <a href="mailto:wijaya.kevinn@gmail.com">Email</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Crown-us&style=flat-square&color=blueviolet" />
+
+</div>
 
 ---
 
-## 🚀 About Me
+## About
 
-```bash
-$ whoami
-```
+I'm a Fullstack Web Developer from Indonesia with a strong interest in building scalable applications, designing maintainable systems, and exploring artificial intelligence.
+
+Currently focused on developing real-world software products while deepening my knowledge of machine learning and modern system architecture.
 
 ```yaml
-name       : Kevin Dwi Wijaya
-role       : Fullstack Web Developer
-education  : D3 Manajemen Informatika — PSDKU Polinema Kediri
-focus      : Fullstack Development, Deep Learning, System Architecture
-website    : https://kvndwi.com
-location   : Indonesia
+name      : Kevin Dwi Wijaya
+education : D3 Manajemen Informatika
+campus    : PSDKU Polinema Kediri
+focus     : Fullstack Development
+interest  : Deep Learning & System Design
 ```
-
-I enjoy building products from scratch, designing maintainable systems, and exploring machine learning technologies.
-
-Currently working on SaaS platforms and marketplace systems while diving deeper into AI and signal processing.
 
 ---
 
-## 🏆 Highlights
+## Current Mission
 
 * 🚀 Building RT/RW Digital SaaS
 * 🏪 Developing Apotek Seger Marketplace
 * 🤖 Exploring Deep Learning & Audio Processing
-* 🐧 Linux Daily Driver
-* ⚡ Passionate about scalable architectures
+* 🐧 Daily Linux User
+* ⚡ Learning scalable architecture patterns
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 
 ```text
-JavaScript • TypeScript • Python • PHP • Kotlin
+JavaScript • TypeScript • PHP • Python • Kotlin
 ```
 
 ### Frontend
@@ -63,31 +68,31 @@ React • Next.js • Tailwind CSS • Three.js
 Laravel • Node.js • REST API
 ```
 
-### AI / Machine Learning
+### AI & Machine Learning
 
 ```text
-TensorFlow • Deep Learning • Audio Signal Processing
+TensorFlow • Deep Learning • Audio DSP
 ```
 
-### Databases
+### Database
 
 ```text
 MySQL • PostgreSQL
 ```
 
-### Tools
+### Dev Tools
 
 ```text
-Git • Docker • Linux • Vim • Neovim
+Git • Docker • Linux • Neovim
 ```
 
 ---
 
-## 📦 Featured Projects
+## Featured Projects
 
-### 🟣 RT/RW Digital SaaS
+### RT/RW Digital SaaS
 
-Resident administration platform designed to simplify neighborhood management, financial tracking, and citizen services.
+Resident administration platform that helps neighborhood management become more efficient through digital workflows.
 
 **Stack**
 
@@ -95,13 +100,13 @@ Resident administration platform designed to simplify neighborhood management, f
 Laravel • React • MySQL
 ```
 
-Status: Active Development
+Status: Active
 
 ---
 
-### 🟢 Apotek Seger Marketplace
+### Apotek Seger Marketplace
 
-Marketplace ecosystem connecting pharmacies and customers through a modern web platform.
+Marketplace platform designed to connect pharmacies and customers through a modern web ecosystem.
 
 **Stack**
 
@@ -109,25 +114,25 @@ Marketplace ecosystem connecting pharmacies and customers through a modern web p
 Laravel • React • MySQL
 ```
 
-Status: Active Development
+Status: Active
 
 ---
 
-### 🔵 Emotion Visualizer
+### Emotion Visualizer
 
-Experimental deep learning project that analyzes emotional characteristics from audio signals and visualizes the results.
+Experimental machine learning project that analyzes emotional information from audio signals.
 
 **Stack**
 
 ```text
-Python • TensorFlow • Audio DSP
+Python • TensorFlow • Audio Signal Processing
 ```
 
 Status: In Progress
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 ```text
 Deep Neural Networks
@@ -140,55 +145,54 @@ Cloud Infrastructure
 
 ---
 
-## 💭 Philosophy
+## Philosophy
 
 ```txt
 I don't just build features.
 
-I design systems that:
-- scale
+I build systems that:
+
+- solve real problems
 - remain maintainable
-- solve actual user problems
+- scale when needed
 
-Good software survives after the developer leaves.
+Good software should outlive its developer.
 ```
 
 ---
 
-## ⚙️ Environment
-
-```bash
-$ neofetch
-```
+## Environment
 
 ```yaml
-OS          : Linux
-Editor      : Neovim
-Shell       : Zsh
-Theme       : Catppuccin Mocha
-Terminal    : Ghostty
-Coffee      : Required
-Sleep       : Optional
+OS        : Linux
+Editor    : Neovim
+Shell     : Zsh
+Theme     : Catppuccin Mocha
+Terminal  : Ghostty
 ```
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Analytics
 
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Crown-us&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Crown-us&layout=compact&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Crown-us&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![Streak](https://streak-stats.demolab.com?user=Crown-us&theme=tokyonight&hide_border=true)
-```
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crown-us&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=Crown-us&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Crown-us&theme=tokyonight"/>
+
+</div>
 
 ---
 
-## 🌐 Connect
+## Contact
 
 ```yaml
-portfolio : https://kvndwi.com
+website   : https://kvndwi.com
 github    : https://github.com/Crown-us
 instagram : @kepsssz
 email     : wijaya.kevinn@gmail.com
