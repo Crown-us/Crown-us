@@ -1,26 +1,18 @@
-<div align="center">
+# Hi, I'm Kevin 👋
 
 ```text
-██╗  ██╗███████╗██╗   ██╗██╗███╗   ██╗
-██║ ██╔╝██╔════╝██║   ██║██║████╗  ██║
-█████╔╝ █████╗  ██║   ██║██║██╔██╗ ██║
-██╔═██╗ ██╔══╝  ╚██╗ ██╔╝██║██║╚██╗██║
-██║  ██╗███████╗ ╚████╔╝ ██║██║ ╚████║
-╚═╝  ╚═╝╚══════╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝
+Building systems.
+Training models.
+Breaking things.
+Fixing them.
+Repeating.
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=520&lines=D3+Manajemen+Informatika+%40+Polinema;Fullstack+Web+Developer;Deep+Learning+Explorer;Building+things+that+actually+work.;%24+sudo+rm+-rf+sleep" alt="Typing SVG" />
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/kvndwi.com-a6e3a1?style=flat-square\&logo=firefoxbrowser\&logoColor=1e1e2e)](https://kvndwi.com)
-[![Instagram](https://img.shields.io/badge/@kepsssz-CBA6F7?style=flat-square\&logo=instagram\&logoColor=1e1e2e)](https://www.instagram.com/kepsssz/)
-[![Gmail](https://img.shields.io/badge/Gmail-f38ba8?style=flat-square\&logo=gmail\&logoColor=1e1e2e)](mailto:wijaya.kevinn@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Crown-us\&color=cba6f7\&style=flat-square\&label=profile+views)](https://github.com/Crown-us)
-
-</div>
+Fullstack Web Developer from Indonesia focused on building scalable web applications, learning deep learning, and creating software that solves real-world problems.
 
 ---
+
+## 🚀 About Me
 
 ```bash
 $ whoami
@@ -28,73 +20,190 @@ $ whoami
 
 ```yaml
 name       : Kevin Dwi Wijaya
-role       : Fullstack Web Developer × Deep Learning Explorer
+role       : Fullstack Web Developer
 education  : D3 Manajemen Informatika — PSDKU Polinema Kediri
-focus      : Deep Learning, Fullstack Development, System Architecture
-currently  : RT/RW Digital SaaS & Marketplace Apotek Seger
-web        : https://kvndwi.com
-side_quest : optimizing hardware as hard as i optimize code
+focus      : Fullstack Development, Deep Learning, System Architecture
+website    : https://kvndwi.com
+location   : Indonesia
+```
+
+I enjoy building products from scratch, designing maintainable systems, and exploring machine learning technologies.
+
+Currently working on SaaS platforms and marketplace systems while diving deeper into AI and signal processing.
+
+---
+
+## 🏆 Highlights
+
+* 🚀 Building RT/RW Digital SaaS
+* 🏪 Developing Apotek Seger Marketplace
+* 🤖 Exploring Deep Learning & Audio Processing
+* 🐧 Linux Daily Driver
+* ⚡ Passionate about scalable architectures
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+```text
+JavaScript • TypeScript • Python • PHP • Kotlin
+```
+
+### Frontend
+
+```text
+React • Next.js • Tailwind CSS • Three.js
+```
+
+### Backend
+
+```text
+Laravel • Node.js • REST API
+```
+
+### AI / Machine Learning
+
+```text
+TensorFlow • Deep Learning • Audio Signal Processing
+```
+
+### Databases
+
+```text
+MySQL • PostgreSQL
+```
+
+### Tools
+
+```text
+Git • Docker • Linux • Vim • Neovim
 ```
 
 ---
 
-```bash
-$ cat tech-stack.json
+## 📦 Featured Projects
+
+### 🟣 RT/RW Digital SaaS
+
+Resident administration platform designed to simplify neighborhood management, financial tracking, and citizen services.
+
+**Stack**
+
+```text
+Laravel • React • MySQL
 ```
 
-```json
-{
-  "languages": ["JavaScript", "TypeScript", "Python", "PHP", "Kotlin"],
-  "frontend": ["React", "Next.js", "Tailwind CSS", "Three.js"],
-  "backend": ["Laravel", "Node.js"],
-  "ml_ai": ["TensorFlow", "Deep Learning", "Audio Signal Processing"],
-  "database": ["MySQL", "PostgreSQL"],
-  "tools": ["Git", "Linux", "Docker", "Vim", "Catppuccin Mocha"]
+Status: Active Development
+
+---
+
+### 🟢 Apotek Seger Marketplace
+
+Marketplace ecosystem connecting pharmacies and customers through a modern web platform.
+
+**Stack**
+
+```text
+Laravel • React • MySQL
+```
+
+Status: Active Development
+
+---
+
+### 🔵 Emotion Visualizer
+
+Experimental deep learning project that analyzes emotional characteristics from audio signals and visualizes the results.
+
+**Stack**
+
+```text
+Python • TensorFlow • Audio DSP
+```
+
+Status: In Progress
+
+---
+
+## 📚 Currently Learning
+
+```text
+Deep Neural Networks
+Computer Vision
+Audio Signal Processing
+Distributed Systems
+Kubernetes
+Cloud Infrastructure
+```
+
+---
+
+## 💭 Philosophy
+
+```txt
+I don't just build features.
+
+I design systems that:
+- scale
+- remain maintainable
+- solve actual user problems
+
+Good software survives after the developer leaves.
+```
+
+---
+
+## ⚙️ Environment
+
+```bash
+$ neofetch
+```
+
+```yaml
+OS          : Linux
+Editor      : Neovim
+Shell       : Zsh
+Theme       : Catppuccin Mocha
+Terminal    : Ghostty
+Coffee      : Required
+Sleep       : Optional
+```
+
+---
+
+## 📈 GitHub Stats
+
+```md
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Crown-us&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Crown-us&layout=compact&theme=tokyonight&hide_border=true)
+
+![Streak](https://streak-stats.demolab.com?user=Crown-us&theme=tokyonight&hide_border=true)
+```
+
+---
+
+## 🌐 Connect
+
+```yaml
+portfolio : https://kvndwi.com
+github    : https://github.com/Crown-us
+instagram : @kepsssz
+email     : wijaya.kevinn@gmail.com
+```
+
+---
+
+<div align="center">
+
+```cpp
+while(alive){
+    learn();
+    build();
+    improve();
 }
 ```
 
----
-
-```bash
-$ ls -la projects/
-```
-
-| Project                         | Stack                           |     Status    |
-| ------------------------------- | ------------------------------- | :-----------: |
-| 🟣 **RT/RW Digital SaaS**       | Laravel · React · MySQL         |    `active`   |
-| 🟢 **Apotek Seger Marketplace** | Laravel · React · MySQL         |    `active`   |
-| 🔵 **Emotion Visualizer**       | Python · TensorFlow · Audio DSP | `in progress` |
-
----
-
-<div align="center">
-
-```bash
-$ git log --oneline --graph --all
-```
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Crown-us\&theme=catppuccin-mocha\&hide_border=true\&border_radius=8)](https://github.com/Crown-us)
-
-<br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Crown-us\&bg_color=1e1e2e\&color=cba6f7\&line=89b4fa\&point=f38ba8\&hide_border=true)](https://github.com/Crown-us)
-
-<br/>
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=1e1e2e)
-![TypeScript](https://img.shields.io/badge/TypeScript-89b4fa?style=flat-square\&logo=typescript\&logoColor=1e1e2e)
-![Python](https://img.shields.io/badge/Python-CBA6F7?style=flat-square\&logo=python\&logoColor=1e1e2e)
-![PHP](https://img.shields.io/badge/PHP-89b4fa?style=flat-square\&logo=php\&logoColor=1e1e2e)
-![Kotlin](https://img.shields.io/badge/Kotlin-f38ba8?style=flat-square\&logo=kotlin\&logoColor=1e1e2e)
-![React](https://img.shields.io/badge/React-89dceb?style=flat-square\&logo=react\&logoColor=1e1e2e)
-![Laravel](https://img.shields.io/badge/Laravel-f38ba8?style=flat-square\&logo=laravel\&logoColor=1e1e2e)
-![Next.js](https://img.shields.io/badge/Next.js-cdd6f4?style=flat-square\&logo=nextdotjs\&logoColor=1e1e2e)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-fab387?style=flat-square\&logo=tensorflow\&logoColor=1e1e2e)
-
-</div>
-
----
-
-<div align="center">
-<sub>crafted with <code>vim</code> · powered by <code>caffeine</code> · themed with <code>catppuccin mocha</code></sub>
 </div>
